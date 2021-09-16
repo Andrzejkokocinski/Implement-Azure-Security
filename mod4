@@ -1,9 +1,9 @@
 ---
 lab:
-    az204Title: 'Lab 03: Access resource secrets more securely across services'
-    az020Title: 'Lab 03: Access resource secrets more securely across services'
-    az204Module: 'Module 3: '
-    az020Module: 'Module 3: '
+    az204Title: 'Lab 04: Access resource secrets more securely across services'
+    az020Title: 'Lab 04: Access resource secrets more securely across services'
+    az204Module: 'Module 4: '
+    az020Module: 'Module 4: '
 ---
 
 # Lab 03: Access resource secrets more securely across services
